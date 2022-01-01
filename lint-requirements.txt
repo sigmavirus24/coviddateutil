@@ -1,0 +1,11 @@
+black==21.12b0
+flake8
+flake8-docstrings
+flake8-import-order
+pep8-naming
+flake8-colors
+pylint
+mypy
+bandit
+build
+twine
